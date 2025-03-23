@@ -1,2 +1,3 @@
 Hello from file1
 Новая строка от person2
+Дополнительные изменения от person1 в file1.txt
