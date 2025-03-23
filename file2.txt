@@ -1,1 +1,2 @@
 Hello from file2
+Изменения от person2 в file2.txt
